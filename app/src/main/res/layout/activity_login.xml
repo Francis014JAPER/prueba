@@ -62,7 +62,7 @@
       android:layout_marginTop="10dp"
       />
   <Button
-      android:id="@+id/Btn1"
+      android:id="@+id/Btn1212"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:layout_marginBottom="62dp"
@@ -72,9 +72,5 @@
       app:layout_constraintBottom_toBottomOf="parent"
       tools:ignore="HardcodedText"
       />
-
-
-
-
 
   </androidx.constraintlayout.widget.ConstraintLayout>

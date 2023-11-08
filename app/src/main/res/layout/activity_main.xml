@@ -14,5 +14,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/Btn1200"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="62dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        android:text="LOGIN"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:ignore="HardcodedText"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
